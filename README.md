@@ -3,6 +3,7 @@
 A full-stack AI-powered web application inspired by DeepSeekAI, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project delivers a smooth and interactive user experience for generating real-time AI responses with a scalable backend architecture.
 
 📌 Features
+
 ⚡ Real-time AI response generation
 💬 Interactive and responsive user interface
 🔐 Secure API handling and backend integration
@@ -10,6 +11,7 @@ A full-stack AI-powered web application inspired by DeepSeekAI, built using the 
 🌐 RESTful APIs for seamless communication
 📱 Fully responsive design
 🛠️ Tech Stack
+
 Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB
